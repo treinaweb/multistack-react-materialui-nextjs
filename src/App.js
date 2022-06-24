@@ -14,7 +14,7 @@ function App() {
 
     return (
         <div>
-            {isOnline ? 'Você está Online' : 'Você está desconectado'}
+            {isOnline ? 'Você está Online' : 'Você está desconectado '}
             <Button color={'success'} variant={'contained'}>Clicar</Button>
         </div>
     );
