@@ -2,7 +2,7 @@
 const meusCursos = [
     {
         id: '1',
-        nome: 'React'
+        nome: 'React.js'
     },
     {
         id: '2',
