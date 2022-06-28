@@ -7,7 +7,11 @@ const meusCursos = [
     {
         id: '2',
         nome: 'Next.js'
-    }
+    },
+    {
+        id: '3',
+        nome: 'Angular.js'
+    },
 ]
 
 export default function Cursos(request, response) {
