@@ -1,13 +1,14 @@
 
 import './App.css';
-import Contador from './components/MeuComponente/Contador';
+import ListaCursos from './components/ListaCursos/ListaCursos';
+
 
 function App() {
 
   return (
     <div >
       Olá 
-      <Contador  />
+      <ListaCursos />
     </div>
   );
 }
